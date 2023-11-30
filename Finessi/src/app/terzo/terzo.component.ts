@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./terzo.component.css']
 })
 export class TerzoComponent {
-
+  name="quarto"
 }
